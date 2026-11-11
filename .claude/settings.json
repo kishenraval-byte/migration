@@ -8,6 +8,7 @@
       "mcp__Dropbox__create_folder",
       "mcp__Dropbox__create_file",
       "mcp__Dropbox__delete",
+      "mcp__Dropbox__check_job_status",
       "mcp__Microsoft_365__sharepoint_search",
       "mcp__Microsoft_365__sharepoint_folder_search",
       "mcp__Microsoft_365__read_resource",
