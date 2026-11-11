@@ -1,0 +1,20 @@
+{
+  "permissions": {
+    "allow": [
+      "mcp__Dropbox__search",
+      "mcp__Dropbox__list_folder",
+      "mcp__Dropbox__fetch",
+      "mcp__Dropbox__get_file_metadata",
+      "mcp__Dropbox__create_folder",
+      "mcp__Dropbox__create_file",
+      "mcp__Dropbox__delete",
+      "mcp__Microsoft_365__sharepoint_search",
+      "mcp__Microsoft_365__sharepoint_folder_search",
+      "mcp__Microsoft_365__read_resource",
+      "mcp__Microsoft_365__sharepoint_update_file",
+      "mcp__Microsoft_365__sharepoint_upload_file",
+      "mcp__Microsoft_365__sharepoint_create_folder",
+      "mcp__Microsoft_365__sharepoint_copy_item"
+    ]
+  }
+}
