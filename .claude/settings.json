@@ -34,7 +34,13 @@
       "mcp__claude-code-remote__list_events",
       "mcp__claude-code-remote__get_event",
       "mcp__claude-code-remote__get_session",
-      "mcp__claude-code-remote__update_trigger"
+      "mcp__claude-code-remote__update_trigger",
+      "mcp__Microsoft_365__outlook_create_draft",
+      "mcp__Microsoft_365__outlook_create_reply_draft",
+      "mcp__Microsoft_365__outlook_create_reply_all_draft",
+      "mcp__Microsoft_365__outlook_update_draft",
+      "mcp__Gmail__create_draft",
+      "mcp__Gmail__update_draft"
     ]
   }
 }
